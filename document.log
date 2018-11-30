@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.9.28)  30 NOV 2018 12:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2018.9.28)  30 NOV 2018 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,6 +884,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [7
 
 ]
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no « in font cmss10!
+ [8
+
+]
 \tf@nav=\write6
 \openout6 = `document.nav'.
 
@@ -893,11 +898,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@snm=\write8
 \openout8 = `document.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 116.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -905,13 +910,13 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 15507 strings out of 494820
- 288882 string characters out of 3178049
+ 15511 strings out of 494820
+ 288915 string characters out of 3178049
  361717 words of memory out of 3000000
- 18327 multiletter control sequences out of 15000+200000
+ 18329 multiletter control sequences out of 15000+200000
  7445 words of font info for 28 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  49i,14n,53p,397b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -921,10 +926,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on document.pdf (7 pages, 73351 bytes).
+Output written on document.pdf (8 pages, 75156 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 17 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
